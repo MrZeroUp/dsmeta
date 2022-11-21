@@ -7,7 +7,7 @@ https://dsmeta-alisson-matheus.netlify.app/
 
 dsmeta is a full stack web and mobile application built during the 11th edition of "DevSuperior Week", an event organized by: [DevSuperior](https://devsuperior.com.br/ "Site by DevSuperior").
 
-Esse evento foca nas habilidades necessárias para o desenvolvedor Full Stack construir sistemas !
+This event focuses on the skills required for the Full Stack developer to build systems
 
 
 ## Layout Mobile e Web
