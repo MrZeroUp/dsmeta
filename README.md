@@ -18,11 +18,11 @@ This event focuses on the skills required for the Full Stack developer to build 
 
 
 <ul>
-        <li><a href="https://youtu.be/xC_yKw3MYX4">OO and SQL<a/></li>
-        <li><a href="https://youtu.be/os6hdZbCnpM">Jpa Repository</a></li>
-        <li><a href="https://youtu.be/OX5MmJrFTdw">Domain Model<a/></li>
-        <li><a href="https://youtu.be/IOJoJGDowEY">React JS<a/></li>
-        <li><a href="https://youtu.be/KLG-jC1fh28">Git and Github<a/></li>
+        <li><a>OO and SQL<a/></li>
+        <li><a>Jpa Repository</a></li>
+        <li><a>Domain Model<a/></li>
+        <li><a>React JS<a/></li>
+        <li><a>Git and Github<a/></li>
 </ul>
 
 
@@ -32,10 +32,10 @@ This event focuses on the skills required for the Full Stack developer to build 
   <li>
   	Backend - Springboot - pom.xml:
 	<ul>
-	  <li><a href="https://spring.io/projects/spring-ws">Spring Web (starter and dependencies)<a/> </li>
-	  <li><a href="https://spring.io/projects/spring-data-jpa">JPA<a/></li> 
-	  <li><a href="https://mvnrepository.com/search?q=H2">H2 Database<a/></li>
-	  <li><a href="https://mvnrepository.com/artifact/org.springframework.security/spring-security-config">Security config<a/></li>
+	  <li><a>Spring Web (starter and dependencies)<a/> </li>
+	  <li><a>JPA<a/></li> 
+	  <li><a>H2 Database<a/></li>
+	  <li><a>Security config<a/></li>
 	</ul>
   </li>
   <li>
@@ -132,6 +132,6 @@ https://www.youtube.com/playlist?list=PLNuUvBZGBA8kMTSPMmmNiRm2z0gRxXxox
 ## Source
 
 <ul>
-  <li><a href="https://devsuperior.com.br/" target="_blank">DevSuperior</a></li>
-  <li><a href="https://github.com/devsuperior/sds-dsmeta" target="_blank">DevSuperior - Spring React week - sdsmeta</a></li>
+  <li><a>DevSuperior</a></li>
+  <li><a>DevSuperior - Spring React week - sdsmeta</a></li>
 </ul>
